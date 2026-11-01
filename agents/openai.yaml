@@ -1,0 +1,5 @@
+interface:
+  display_name: "专属自律软件设计师"
+  short_description: "循序渐进梳理需求并制作个人安卓自律软件"
+  default_prompt: "使用 $personal-discipline-app-builder 帮我设计一款只属于我的安卓自律软件。"
+
